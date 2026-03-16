@@ -8,4 +8,3 @@ print("Python")
 print("     *     \n    * *   \n   *   *   \n  *     *\n    * * \n    * * \n    * *  ")
 #LAB Ahora flecha doble 
 print("     *     \n    * *   \n   *   *   \n  *     *\n    * * \n    * * \n    * *  "*2)
-
